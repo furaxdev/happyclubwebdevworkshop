@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+main {
+  font-size: 18px;
+  position: relative;
+  border-radius: 10px;
+  padding: 0 20px 80px;
+  width: 92%;
+  max-width: 1000px;
+  margin: auto;
+  top: 60px;
+  min-height: 100vh;
+}
+
+iframe {
+  width: 95% !important;
+  height: 70vh !important;
+  margin: 20px auto auto;
+}

@@ -18,3 +18,20 @@ iframe {
   height: 70vh !important;
   margin: 20px auto auto;
 }
+
+a,
+a:visited {
+  background-color: rgba(255, 229, 100, 0.3);
+  color: inherit;
+  text-decoration: none;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+a:hover {
+  color: #ffe564;
+}
+
+.navbar{
+  
+}

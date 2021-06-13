@@ -8,7 +8,7 @@
     "@theme-ui/prism": "^0.9.1",
     "code-mirror-themes": "^1.0.0",
     "front-matter": "^4.0.2",
-    "gatsby": "^3.3.1",
+    "gatsby": "^3.7.1",
     "gatsby-cli": "^3.3.0",
     "gatsby-link": "^3.3.0",
     "gatsby-plugin-layout": "^2.3.0",

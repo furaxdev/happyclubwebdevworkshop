@@ -2,11 +2,8 @@ ul > li {
   margin: 8px 0;
 }
 
-a {
-}
-
 .header {
-  background-color: #20232a;
+  background-color: #fec901;
   color: white;
   display: flex;
   padding: 10px 20px;
@@ -15,6 +12,11 @@ a {
   top: 0;
   width: 100vw;
   z-index: 100;
+}
+
+.navbar-brand {
+  background: none;
+  color: #fff;
 }
 
 .header a {
@@ -132,7 +134,6 @@ pre {
   }
 }
 
-
 @media (max-width: 1200px) {
   .lesson-links {
     position: relative;
@@ -161,7 +162,7 @@ img {
   max-width: 70vw;
 }
 blockquote {
-  background-color: rgba(255,229,100,0.3);
+  background-color: rgba(255, 229, 100, 0.3);
   border-left-color: #ffe564;
   border-left-width: 9px;
   border-left-style: solid;

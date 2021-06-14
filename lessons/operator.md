@@ -1,7 +1,7 @@
 ---
 path: "/operator"
 title: "OPERATORS"
-order: "4A"
+order: "4B"
 section: "JAVASCRIPT"
 description: "Learn operators"
 ---
@@ -86,3 +86,4 @@ console.log(a)//243
 Operator precedence describes the order in which operations are performed in an arithmetic expression.
 
 ![Precedance table](precedance.png)
+

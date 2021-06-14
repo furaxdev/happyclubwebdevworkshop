@@ -1,7 +1,7 @@
 ---
 path: "/introduction-to-javascript"
 title: "INTRODUCTION TO JAVASCRIPT"
-order: "1A"
+order: "1B"
 section: "JAVASCRIPT"
 description: "brief introduction of javascript"
 ---

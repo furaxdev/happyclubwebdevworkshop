@@ -11,7 +11,13 @@ Lets see the types of programming language: Actually there are only two types of
 There are two types of language **1)Statically typed language.** **2) Dynamically typed language**
 
 **Statically Typed Language:** A language is statically typed if the type of a variable is known at compile time. For some languages this means that you as the programmer must specify what type each variable is (e.g.: Java, C, C++); other languages offer some form of type inference, the capability of the type system to deduce the type of a variable (e.g.: OCaml, Haskell, Scala, Kotlin)
-Before learning javascript you should know what is *web*. And how it is architected?
+Before learning javascript you should know what is *web*. And how it is architected? 
+The main advantage here is that all kinds of checking can be done by the compiler, and therefore a lot of trivial bugs are caught at a very early stage.
+Examples: C, C++, Java, Rust, Go, Scala
+
+**Dynamically Typed Language:** A language is dynamically typed if the type is associated with run-time values, and not named variables/fields/etc. This means that you as a programmer can write a little quicker because you do not have to specify types every time (unless using a statically-typed language with type inference).
+
+Examples: Perl, Ruby, Python, PHP, JavaScript
 
 
 Web is the part of the Internet that can be looked at with a special program (called a browser) and that is made up of many documents which are linked together.
@@ -33,16 +39,6 @@ So now you understand types of programming language web, front End and backend. 
 **High level:** It means we don't have to worry about low level things that is memory management.
 
 **Object oriented:** Based on object for storing most kind of data.
-
-
-
-The main advantage here is that all kinds of checking can be done by the compiler, and therefore a lot of trivial bugs are caught at a very early stage.
-
- Examples: C, C++, Java, Rust, Go, Scala
-
- **Dynamically Typed Language:** A language is dynamically typed if the type is associated with run-time values, and not named variables/fields/etc. This means that you as a programmer can write a little quicker because you do not have to specify types every time (unless using a statically-typed language with type inference).
-
-Examples: Perl, Ruby, Python, PHP, JavaScript
 
 *Javascript* is originally designed to programmatically interact with elements of a webpages.
 That is add a click event to a button that shows an alert change the style of an element, manipulate the content of html and css, load data from the servers, building the entire application in the browser which is called the *web application*
@@ -71,7 +67,7 @@ There are lots of programming language in a world then  **WHY WE SHOULD LEARN JA
  Answer is: First you should know that javascript is everywhere. It is in the browser, and browser has become a long way in the last five years into fully fledged application development runtimes. It used to be for viewing just document on the web but now it is in the application as well. Mobile application(react native, ionic), Desktop application(electron), server Side application(nodejs) and we can use javascript for machine learning as well. According to stackoverflow 2020 stastics nearly 70% of professional developers who responded to the stackoverflow survey coded in the javascript.
 
 ### **Salary of javascript developer:** 
-According to indeed.com javascript programmers average salary is $110,673 per year or $47.49 per hr nd RS 60,100-RS 1,02,000 per month in Nepal. 
+According to indeed.com javascript programmers average salary is $110,673 per year or $47.49 per hr and RS 60,100-RS 1,02,000 per month in Nepal. 
 
 **History and version of javascript:**
   In 1997, due to JavaScript’s rapid growth, it became clear that the language would need to be properly maintained and managed. Therefore, Netscape handed the job of creating a language specification to the European Computer Manufacturers Association (ECMA), a body founded with the goal of standardizing computing. The ECMA specifications were labeled ECMA-262 and ECMAScript languages included JavaScript, JScript, and ActionScript.

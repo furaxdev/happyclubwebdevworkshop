@@ -181,12 +181,14 @@ const lastName = 'Adhikari'
 ### Challenge 2:
 1. Declare the variables (use var in this case) named yourName, yourSurname, yourAge. Print it into console.
 Try to reasign the value of yourName to your friend name, yourSurname to your friend's surname and yourAge to your friend age.
-https://codesandbox.io/s/hungry-heyrovsky-5v7in?file=/src/index.js
+
+
 
 2. Declare the variables (use let in this case) mountainOfNepal assign its value to the "Mount Everest" and declare itHeight variable assign its value to 8848. Try to reasign mountainOfNepal to "Mount Annapurna" and itHeight to 8091.
-https://codesandbox.io/s/hungry-heyrovsky-5v7in?file=/src/index.js
+
 
 3. Declare the variables (use const) named myFavoriteFruits assign the value to "mango". Try to reasign the value with the another fruit name and see the error.  
+
 https://codesandbox.io/s/hungry-heyrovsky-5v7in?file=/src/index.js
 
 

@@ -149,6 +149,8 @@ You dont need to memories this. You will learn thoroughly after practice.
 
 ## we actually dont need bitwise operator in real life if you are so wiling to know about this then contact this lecture's instructor to explain about that.
 
+
+
 # **coding challenge 3**:
 
 1. Multiply 20 by 4 and save into the variables. Log it into the console

@@ -295,7 +295,7 @@ function addTwoNumber(a, b){
 const c = addTwoNumber(2,5)
 console.log(c)//7
 ```
-Basically we can loop through array.
+
 We have seperate section about this and we will talk about this more in future in this lecture.
 
 

@@ -66,6 +66,8 @@ We can also use the analogy of nouns, adjectives and verb. HTML is noun, CSS is 
 There are lots of programming language in a world then  **WHY WE SHOULD LEARN JAVASCRIPT?**
  Answer is: First you should know that javascript is everywhere. It is in the browser, and browser has become a long way in the last five years into fully fledged application development runtimes. It used to be for viewing just document on the web but now it is in the application as well. Mobile application(react native, ionic), Desktop application(electron), server Side application(nodejs) and we can use javascript for machine learning as well. According to stackoverflow 2020 stastics nearly 70% of professional developers who responded to the stackoverflow survey coded in the javascript.
 
+ ![Language statictics 2020](./Stack_Overflow_Developer_Survey_2020-25.png)
+
 ### **Salary of javascript developer:** 
 According to indeed.com javascript programmers average salary is $110,673 per year or $47.49 per hr and RS 60,100-RS 1,02,000 per month in Nepal. 
 

@@ -82,11 +82,6 @@ The exponentiation operator (**) raises the first operand to the power of the se
 const a = 3**5;// means 3 to the power 5
 console.log(a)//243
 ```
-## Operator Precedence:
-Operator precedence describes the order in which operations are performed in an arithmetic expression.
-
-![Precedance table](precedance.png)
-You dont need to memories this. You will learn thoroughly after practice.
 
 ## Comparison operators:
 Comparison and Logical operators are used to test for true or false.
@@ -144,6 +139,13 @@ const voteable = (age < 18) ? "Too young":"Old enough";
 const vote = (ages < 18) ? "Too young":"Old enough";
 console.log(voteable, vote)// Old enough Too young
 ```
+
+## Operator Precedence:
+Operator precedence describes the order in which operations are performed in an arithmetic expression.
+
+![Precedance table](precedance.png)
+You dont need to memories this. You will learn thoroughly after practice.
+
 
 ## we actually dont need bitwise operator in real life if you are so wiling to know about this then contact this lecture's instructor to explain about that.
 

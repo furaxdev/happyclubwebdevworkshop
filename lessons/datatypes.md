@@ -304,3 +304,5 @@ We have seperate section about this and we will talk about this more in future i
 2. slice your surname and print it into the console.
 3. Define the function whose name is division give a and b parameter. Give the value of a(number) and b(number) and divide a/b and return it inside the function and call that function.
 4. Define the variables name, age and print I am 'name'(it should print your name in the name) and i am 'age'(it should print your age) 
+
+https://codesandbox.io/s/hungry-heyrovsky-5v7in?file=/src/index.js

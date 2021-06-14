@@ -2,7 +2,7 @@
 path: "/values-and-variables"
 title: "VALUES AND VARIABLES"
 order: "2A"
-section: "JAVASCRIPT"
+section: "2. VALUES AND VARIABLES"
 description: "Learn values and variables"
 ---
 

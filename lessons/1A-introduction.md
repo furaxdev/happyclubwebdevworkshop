@@ -2,7 +2,7 @@
 path: "/1a"
 title: "Introduction"
 order: "1A"
-section: "Introduction"
+section: "1. Introduction"
 description: "brief introduction about the course"
 ---
 

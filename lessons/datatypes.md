@@ -303,6 +303,7 @@ We have seperate section about this and we will talk about this more in future i
 1. Define the variable of yourName and assign the value to your full name. print your into the console. 
 2. slice your surname and print it into the console.
 3. Define the function whose name is division give a and b parameter. Give the value of a(number) and b(number) and divide a/b and return it inside the function and call that function.
-4. Define the variables name, age and print I am 'name'(it should print your name in the name) and i am 'age'(it should print your age) 
+4. Define the variables name, age and print I am 'name'(it should print your name in the name) and i am 'age'(it should print your age).
+5. Define the variable call nameOfCars and assign the array of string contaning the name of car and log it to the console.
 
 https://codesandbox.io/s/hungry-heyrovsky-5v7in?file=/src/index.js

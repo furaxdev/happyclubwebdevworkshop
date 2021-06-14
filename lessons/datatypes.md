@@ -1,8 +1,8 @@
 ---
 path: "/datatypes"
 title: "DATATYPES"
-order: "2A"
-section: "3. DATATYPES"
+order: "3A"
+section: "JAVASCRIPT"
 description: "datatypes"
 ---
 # Datatypes

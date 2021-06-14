@@ -1,8 +1,8 @@
 ---
 path: "/operator"
 title: "OPERATORS"
-order: "2A"
-section: "4. OPERATORS"
+order: "4A"
+section: "JAVASCRIPT"
 description: "Learn operators"
 ---
 ## Assignment operator:

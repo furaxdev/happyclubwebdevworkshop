@@ -1,7 +1,7 @@
 ---
 path: "/values-and-variables"
 title: "VALUES AND VARIABLES"
-order: "2A"
+order: "2B"
 section: "JAVASCRIPT"
 description: "Learn values and variables"
 ---

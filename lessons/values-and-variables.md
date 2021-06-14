@@ -1,6 +1,6 @@
 ---
 path: "/values-and-variables"
-title: "VARIABLES AND DATATYPES"
+title: "VALUES AND VARIABLES"
 order: "2A"
 section: "JAVASCRIPT"
 description: "Learn variables and datatypes"

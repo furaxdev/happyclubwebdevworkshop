@@ -1,6 +1,6 @@
 ---
-path: "/if-else-statement"
-title: "CONDITIONAL"
+path: "/6B-if-else-statement"
+title: "CONDITIONAL:IF-Else"
 order: "6B"
 section: "JAVASCRIPT"
 description: "conditional"

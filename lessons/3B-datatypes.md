@@ -1,5 +1,5 @@
 ---
-path: "/datatypes"
+path: "/3B-datatypes"
 title: "DATATYPES"
 order: "3B"
 section: "JAVASCRIPT"

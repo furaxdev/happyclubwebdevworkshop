@@ -1,5 +1,5 @@
 ---
-path: "/type-casting-and-type-coercion"
+path: "/5B-type-casting-and-type-coercion"
 title: "TYPE CASTING AND TYPE COERCION"
 order: "5B"
 section: "JAVASCRIPT"

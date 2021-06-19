@@ -1,5 +1,5 @@
 ---
-path: "/introduction-to-javascript"
+path: "/1B-introduction-to-javascript"
 title: "INTRODUCTION TO JAVASCRIPT"
 order: "1B"
 section: "JAVASCRIPT"

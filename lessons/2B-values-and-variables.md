@@ -1,5 +1,5 @@
 ---
-path: "/values-and-variables"
+path: "/2B-values-and-variables"
 title: "VALUES AND VARIABLES"
 order: "2B"
 section: "JAVASCRIPT"

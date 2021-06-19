@@ -1,5 +1,5 @@
 ---
-path: "/operator"
+path: "/4B-operator"
 title: "OPERATORS"
 order: "4B"
 section: "JAVASCRIPT"

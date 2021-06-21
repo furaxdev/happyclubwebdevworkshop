@@ -1,7 +1,7 @@
 ---
-path: "/3B-datatypes"
+path: "/2B-datatypes"
 title: "DATATYPES"
-order: "3B"
+order: "2B"
 section: "JAVASCRIPT"
 description: "datatypes"
 ---
@@ -41,14 +41,14 @@ console.log(character[1]) //h
 Now lets talk about template literals. Instead of using single quote or double quote we can use back tick.
 ```js
 const character = `This is string`
-const firstName = "sulabh"
+const firstName = "Jon"
 const age = 25
 console.log(`My name is ${firstName} and my age is ${age}`)
-//My name is sulabh and my age is 25
+//My name is Jon and my age is 25
 ```
 lets see string length.
 ```js
-const club = "my favorite club of wrc is happy club"
+const club = "my favorite club is Tottenham"
 console.log(club.length) //37
 ```
 Now what is indexing of string??? lets see:
@@ -63,21 +63,12 @@ Index always starts with 0. Character at 0, -12 is 'j', Character at 1, -11 is '
 
 Escape characters are characters that can be interpreted in some alternate way then what we intended to. To print these characters as it is, include backslash ‘\’ in front of them.
 
-**`\b`**:	Backspace,
-**\f**:	Form Feed,
-**\n**:	New Line,
-**`\r`**:	Carriage Return,
-**`\t`**:	Horizontal Tabulator,
-**`\v`**:	Vertical Tabulator,
-**`\'`**:	Single quote,
-**`\"`**:	Double quote,
-**`\\`**:	Backslash,
+* `\n`:	New Line,
+* `\t`:	Horizontal Tabulator,
+* `\'`:	Single quote,
+* `\"`:	Double quote,
+* `\\`:	Backslash,
 
-```js
-console.log("JavaScript, often\b abbreviated as JS\f, is a \"programming\" \'language\' that conforms\t to the ECMAScript\r specification\n JavaScript is \\high-level, often\v just-in-time compiled, and multi-paradigm");
-/*specificationte abbreviated as JS♀, is a "programming" 'language' that conforms         to the ECMAScript
- JavaScript is \high-level, often♂ just-in-time compiled, and multi-paradigm*/
-```
 
 There are lots of methods in the string. Lets see some of them.
 ### indexOf("string", "the starting position")
@@ -230,7 +221,7 @@ console.log(a===b)// false
 ```
 undefined is undefined that is a contains value but it is undefined. But null doesnot hold any value.
 
-## if you didnot understood some of datatypes then dont worry you will understand thoroughly in the course.
+> if you didnot understood some of datatypes then dont worry you will understand thoroughly in the course.
 
 ## Composite/reference Datatypes
 A composite data type in JavaScript has multiple values, which grouped together. It works the same as the object in the class. It is mutable. Objects, array and function are the composite datatypes.
@@ -261,9 +252,9 @@ const c = "gamma"
 Can you loop all this variable one at a time???
 yes we can using array
 ```js
-const sym = ["alpha", "beta", "gamma"]
-for(let i = 0; i<sym.length; i++){
-    console.log(sym[i])
+const arr = ["alpha", "beta", "gamma"]
+for(let i = 0; i<arr.length; i++){
+    console.log(arr[i])
 }
 /*alpha
 beta

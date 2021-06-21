@@ -68,9 +68,6 @@ There are lots of programming language in a world then  **WHY WE SHOULD LEARN JA
 
  ![Language statictics 2020](./Stack_Overflow_Developer_Survey_2020-25.png)
 
-### **Salary of javascript developer:** 
-According to indeed.com javascript programmers average salary is $110,673 per year or $47.49 per hr and RS 60,100-RS 1,02,000 per month in Nepal. 
-
 **History and version of javascript:**
   In 1997, due to JavaScript’s rapid growth, it became clear that the language would need to be properly maintained and managed. Therefore, Netscape handed the job of creating a language specification to the European Computer Manufacturers Association (ECMA), a body founded with the goal of standardizing computing. The ECMA specifications were labeled ECMA-262 and ECMAScript languages included JavaScript, JScript, and ActionScript.
 
@@ -86,6 +83,12 @@ A series of JavaScript frameworks and libraries, such as Ember, Angular, React, 
 
 With all this choice, it’s somewhat understandable that there has also been a movement toward a more grassroots, “vanilla” implementation of JavaScript. Web components, small reusable custom browser elements, are the latest challenger aiming to be the next breakthrough in the JavaScript world. Whatever the next big thing is, it’s clear that JavaScript is going to be with us for many years to come.
 ## version
->### ...->ES5->ES6(ES2015)->ES7(ES2016)->ES8(ES2017)->ES9(ES2018)->ES10(ES2019)->ES11(ES2020)->...
+> * ES5
+> * ES6(ES2015)
+> * ES7(ES2016) 
+> * ES8(ES2017)
+> * ES9(ES2018)
+> * ES10(ES2019)
+> * ES11(ES2020)
 
 

@@ -1,7 +1,7 @@
 ---
-path: "/5B-type-casting-and-type-coercion"
+path: "/2D-type-casting-and-type-coercion"
 title: "TYPE CASTING AND TYPE COERCION"
-order: "5B"
+order: "2D"
 section: "JAVASCRIPT"
 description: "Learn type casting and type coercion"
 ---
@@ -82,7 +82,3 @@ console.log(x) // x will be NaN (Not a Number)
 var x = 100 / "Apple";
 console.log(isNaN(x));//true
 ```
-
-
-
-

@@ -1,7 +1,7 @@
 ---
-path: "/6B-if-else-statement"
+path: "/2B-if-else-statement"
 title: "CONDITIONAL:IF-Else"
-order: "6B"
+order: "2B"
 section: "JAVASCRIPT"
 description: "conditional"
 ---
@@ -113,7 +113,6 @@ switch (expr) {
   case 'Mangoes':
   case 'Papayas':
     console.log('Mangoes and papayas are RS 79 kg.');
-    
     break;
   default:
     console.log(`Sorry, we are out of ${expr}.`);
@@ -121,3 +120,4 @@ switch (expr) {
 ```
 
 
+https://codesandbox.io/s/vibrant-nightingale-356o5?file=/src/index.js

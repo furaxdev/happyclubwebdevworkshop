@@ -1,7 +1,7 @@
 ---
-path: "/2B-values-and-variables"
+path: "/2A-values-and-variables"
 title: "VALUES AND VARIABLES"
-order: "2B"
+order: "2A"
 section: "JAVASCRIPT"
 description: "Learn values and variables"
 ---
@@ -13,7 +13,7 @@ description: "Learn values and variables"
  
  > For example:
  ```js
- console.log("My name is sulabh adhikari");
+ console.log("Hello World");
 ```
 ### Comments
 
@@ -26,8 +26,8 @@ This example uses a single-line comment before each code line:
 JavaScript comments can be used to explain JavaScript code, and to make it more readable.
 JavaScript comments can also be used to prevent execution, when testing alternative code.
 ```js
-// this is the comment
-//let name = "sulabh"
+// this is a comment
+// This wont execute on your code
 ```
 #### **Multi-line comment**
 Multi-line comments start with /* and end with */.
@@ -36,14 +36,16 @@ Any text between /* and */ will be ignored by JavaScript.
 /*
 this
 is
-comment
+a 
+multitline
+comment  */
 ```
 
  ## Values
 
  Lets talk about values. So What actually is a **values???**
  answer is: A values is basically a peice of data. It is the most fundamental unit of information that we have in programming.
- For example: 'sulabh', 45, true, 23+16+12+41 etc are actually values.
+ For example: 'Cat', 45, true, 23+16+12+41 etc are actually values.
 
  ### Challenge 1: 
  >Log to the console your name, your surname and your age.
@@ -55,12 +57,12 @@ comment
 
  One extremely useful things that we can do with values is to store them into variables and this way we can reuse them over and over again
  ```js
- let firstName = 'sulabh';
+ let firstName = 'Jon';
  ```
 
- We have assign 'sulabh' in the firstName. Now we can use console.log to print the value of FirstName to the console.
+ We have assign 'Jon' in the firstName. Now we can use console.log to print the value of FirstName to the console.
  ```js
-  console.log(firstName) => sulabh
+  console.log(firstName) => Jon
   ```
 
  you can use this variable for many times.
@@ -70,9 +72,9 @@ console.log(firstName);
 console.log(firstName);
 
 output:
-    sulabh
-    sulabh
-    sulabh
+    Jon
+    Jon
+    Jon
 ```
  var, let and const is used to declare variables. For changeable variable let and var is user and for we use let and var and for constant variables we use const.
 

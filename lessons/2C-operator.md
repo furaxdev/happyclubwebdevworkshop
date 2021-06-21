@@ -1,7 +1,7 @@
 ---
-path: "/4B-operator"
+path: "/2C-operator"
 title: "OPERATORS"
-order: "4B"
+order: "2C"
 section: "JAVASCRIPT"
 description: "Learn operators"
 ---

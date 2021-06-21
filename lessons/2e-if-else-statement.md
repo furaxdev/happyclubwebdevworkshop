@@ -1,7 +1,7 @@
 ---
-path: "/2B-if-else-statement"
+path: "/2E-if-else-statement"
 title: "CONDITIONAL:IF-Else"
-order: "2B"
+order: "2E"
 section: "JAVASCRIPT"
 description: "conditional"
 ---
@@ -122,5 +122,4 @@ switch (expr) {
 
 ## Coding challenge
 
-
-https://codesandbox.io/s/vibrant-nightingale-356o5?file=/src/index.js
+https://codesandbox.io/s/inspiring-yalow-b3cih?file=/src/index.js

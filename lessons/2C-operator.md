@@ -152,20 +152,7 @@ You dont need to memories this. You will learn thoroughly after practice.
 
 
 # **coding challenge 3**:
-
-1. Multiply 20 by 4 and save into the variables. Log it into the console
-
-2. Declare a constant variable and assign it the value of 5 to the power 4 and log it into the console.
-
-3. Declare a constant  and assign it a remainder of dividing 83 by 6 and log it into console.
-
-4. Declare a variable and assign a value 4 using increment operator increase the value by 1 and log it into the console.
-
-5. declare a variable day and assign sunday to that variable. if day is monday log to the console my lucky day otherwise log to the console my worst days
-
-6. declare three variables one, two and three assign 1 to one and 2 to two and three to 4. If three > two and one then log to the console "hurrey" otherwise "bad luck".
-
-https://codesandbox.io/s/hungry-heyrovsky-5v7in?file=/src/index.js
+https://codesandbox.io/s/cranky-fermi-lq3my
 
 
 

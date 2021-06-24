@@ -278,12 +278,12 @@ returns the value rounded down
   console.log( Math.floor(3.3))
 ```
 
-* truncate()
+* trunc()
 
 returns the integer part
 
 ```js
-  console.log( Math.truncate(3.3))
+  console.log( Math.trunc(3.3))
 ```
 
 * pow(a,b)

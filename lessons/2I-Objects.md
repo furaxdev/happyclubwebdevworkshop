@@ -272,7 +272,7 @@ returns the value rounded up to its nearest integer:
 
 * floor()
 
-returns the value rounded down
+returns the value rounded downal
 
 ```js
   console.log( Math.floor(3.3))

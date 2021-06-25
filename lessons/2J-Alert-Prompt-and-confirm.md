@@ -1,7 +1,7 @@
 ---
-path: "/2H-popups"
+path: "/2J-popups"
 title: "Popups"
-order: "2H"
+order: "2J"
 section: "JAVASCRIPT"
 description: "popups"
 ---

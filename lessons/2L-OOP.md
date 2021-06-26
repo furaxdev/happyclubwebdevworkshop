@@ -1,7 +1,7 @@
 ---
-path: "/2K-OOP"
+path: "/2L-OOP"
 title: "Object"
-order: "2K"
+order: "2L"
 section: "JAVASCRIPT"
 description: "Object"
 ---

@@ -287,3 +287,5 @@ function add2(a){
 console.log(add(1)(2))
 let 
 ```
+
+https://codesandbox.io/s/blue-fire-zped7?file=/src/index.js:202-203

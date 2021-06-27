@@ -276,5 +276,5 @@ console.log(boy instanceof Person)
 console.log(boy instanceof Boy)
 ```
 
-
+https://codesandbox.io/s/admiring-thunder-csl8y?file=/src/index.js
 
